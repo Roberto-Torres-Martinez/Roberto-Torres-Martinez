@@ -55,14 +55,6 @@
 
 ###
 
-<br clear="both">
-
-<p align="center">
+<p align="center" style="margin-top: -30px;">
   <img src="https://raw.githubusercontent.com/Roberto-Torres-Martinez/Roberto-Torres-Martinez/output/snake.svg" alt="Snake animation" />
-</p>
-
-###
-<br>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api/contributors?username=Roberto-Torres-Martinez&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
 </p>
