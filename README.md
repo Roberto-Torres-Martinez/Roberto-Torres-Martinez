@@ -3,16 +3,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roberto-Torres-Martinez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=ayu-mirage&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roberto-Torres-Martinez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Roberto-Torres-Martinez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=ayu-mirage&disable_animations=false&locale=en&hide_border=false" width="400" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roberto-Torres-Martinez&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=ayu-mirage&hide_border=false" width="400" alt="languages graph" />
 </div>
+
 
 ###
 
 <img align="right" height="175" src="https://i.pinimg.com/originals/08/fc/a8/08fca81ad422d0b98dd04e5d79f0abc9.gif"  />
 
 ###
-
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="9" />
@@ -35,6 +36,7 @@
 
 ###
 
+<br>
 <div align="left">
   <a href="mailto:roberxiri@gmail.com" targat="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -46,8 +48,21 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Roberto-Torres-Martinez/Roberto-Torres-Martinez/output/snake.svg" alt="Snake animation" />
+<br>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Roberto-Torres-Martinez&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ###
+
+<br clear="both">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Roberto-Torres-Martinez/Roberto-Torres-Martinez/output/snake.svg" alt="Snake animation" />
+</p>
+
+###
+<br>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api/contributors?username=Roberto-Torres-Martinez&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+</p>
