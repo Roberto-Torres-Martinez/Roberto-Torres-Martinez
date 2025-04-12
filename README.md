@@ -12,7 +12,6 @@
 <img align="right" height="175" src="https://i.pinimg.com/originals/08/fc/a8/08fca81ad422d0b98dd04e5d79f0abc9.gif" />
 
 ###
-<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="9" />
@@ -47,7 +46,7 @@
 </div>
 
 ###
-
+<br>
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Roberto-Torres-Martinez&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img src="https://raw.githubusercontent.com/Roberto-Torres-Martinez/Roberto-Torres-Martinez/output/snake.svg" alt="Snake animation" />
