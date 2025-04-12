@@ -7,11 +7,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roberto-Torres-Martinez&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=ayu-mirage&hide_border=false" width="400" alt="languages graph" />
 </div>
 
-
 ###
 
-<img align="right" height="175" src="https://i.pinimg.com/originals/08/fc/a8/08fca81ad422d0b98dd04e5d79f0abc9.gif"  />
-</br>
+<img align="right" height="175" src="https://i.pinimg.com/originals/08/fc/a8/08fca81ad422d0b98dd04e5d79f0abc9.gif" />
 
 ###
 <br>
@@ -34,6 +32,7 @@
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
+<br>
 
 ###
 
